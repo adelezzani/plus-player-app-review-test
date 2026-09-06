@@ -4,13 +4,13 @@ Plus Player is a media player only. It does not provide, sell, host, or distribu
 
 Users normally add their own legally authorized media sources.
 
-For App Review only, use the private test playlist below. The included streams are synthetic test content created solely for playback verification and contain no third-party television, movie, or series content.
+For App Review only, use the provided playlist below. It is solely a synthetic test source for App Review. The included streams are synthetic test content created solely for playback verification and contain no third-party television, movie, or series content.
 
 TEST PLAYLIST URL:
-https://YOUR-HTTPS-HOST.example/plus-player-review/review.m3u
+https://adelezzani.github.io/plus-player-app-review-test/review.m3u
 
 TEST EPG URL:
-https://YOUR-HTTPS-HOST.example/plus-player-review/epg.xml
+https://adelezzani.github.io/plus-player-app-review-test/epg.xml
 
 Suggested review flow:
 1. Open Plus Player.
@@ -31,4 +31,4 @@ RESTORE:
 A Restore Purchases action is available for eligible lifetime purchases.
 
 IMPORTANT:
-Replace every YOUR-HTTPS-HOST.example placeholder before App Store submission.
+Use the final HTTPS URLs above before App Store submission.
