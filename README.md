@@ -15,17 +15,11 @@ The video/audio is synthetic test material generated specifically for this packa
 ## The only required manual step
 Upload this entire folder to a stable public HTTPS host.
 
-Suppose the folder becomes available at:
+The folder is available at:
 
-`https://example.com/plus-player-review/`
+`https://adelezzani.github.io/plus-player-app-review-test/`
 
-Replace this placeholder everywhere in `review.m3u` and `APP_REVIEW_NOTES.txt`:
-
-`https://YOUR-HTTPS-HOST.example/plus-player-review`
-
-with:
-
-`https://example.com/plus-player-review`
+The final URLs are already present in `review.m3u` and `APP_REVIEW_NOTES.txt`.
 
 Then verify these URLs from a device on mobile/Wi-Fi:
 - `/review.m3u`
