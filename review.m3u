@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://YOUR-HTTPS-HOST.example/plus-player-review/epg.xml"
+#EXTINF:-1 tvg-id="plus.review.1" tvg-name="Plus Player Review 1" group-title="App Review Test",Plus Player Review Channel 1
+https://YOUR-HTTPS-HOST.example/plus-player-review/streams/channel1/index.m3u8
+#EXTINF:-1 tvg-id="plus.review.2" tvg-name="Plus Player Review 2" group-title="App Review Test",Plus Player Review Channel 2
+https://YOUR-HTTPS-HOST.example/plus-player-review/streams/channel2/index.m3u8

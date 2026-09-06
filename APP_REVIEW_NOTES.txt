@@ -1,0 +1,34 @@
+PLUS PLAYER — APP REVIEW NOTES
+
+Plus Player is a media player only. It does not provide, sell, host, or distribute IPTV subscriptions, television channels, movies, series, commercial playlists, or provider credentials.
+
+Users normally add their own legally authorized media sources.
+
+For App Review only, use the private test playlist below. The included streams are synthetic test content created solely for playback verification and contain no third-party television, movie, or series content.
+
+TEST PLAYLIST URL:
+https://YOUR-HTTPS-HOST.example/plus-player-review/review.m3u
+
+TEST EPG URL:
+https://YOUR-HTTPS-HOST.example/plus-player-review/epg.xml
+
+Suggested review flow:
+1. Open Plus Player.
+2. Choose Add Source / M3U.
+3. Enter the Test Playlist URL above.
+4. Complete the import.
+5. Open the “App Review Test” category.
+6. Play either test channel.
+7. Verify player controls and EPG.
+
+MONETIZATION:
+Plus Player is intended to offer a 7-day free trial followed by an optional one-time Lifetime Unlock. There is no monthly or annual subscription, no automatic renewal, and no automatic charge merely because the trial expires.
+
+LIFETIME PRICE:
+The actual localized price shown in-app must come from StoreKit / App Store Connect. Target U.S. base price: $29.99.
+
+RESTORE:
+A Restore Purchases action is available for eligible lifetime purchases.
+
+IMPORTANT:
+Replace every YOUR-HTTPS-HOST.example placeholder before App Store submission.

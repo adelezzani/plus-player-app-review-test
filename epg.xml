@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Plus Player App Review Test">
+  <channel id="plus.review.1">
+    <display-name>Plus Player Review Channel 1</display-name>
+  </channel>
+  <channel id="plus.review.2">
+    <display-name>Plus Player Review Channel 2</display-name>
+  </channel>
+  <programme start="20260906140712 +0000" stop="20260906170712 +0000" channel="plus.review.1">
+    <title>Plus Player Review Test Programme</title>
+    <desc>Original synthetic test content created only for App Review playback verification.</desc>
+  </programme>
+  <programme start="20260906140712 +0000" stop="20260906170712 +0000" channel="plus.review.2">
+    <title>Plus Player Review Test Programme 2</title>
+    <desc>Original synthetic test content created only for App Review playback verification.</desc>
+  </programme>
+</tv>
